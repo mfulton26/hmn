@@ -1,6 +1,8 @@
 # HMN
 HTTP Message Notation parser/stringifier
 
+![a picture of Dexter](./dexter.jpeg "Logo Title Text 1")
+
 `HMN` is to HTTP Messages as `JSON` is to JavaScript Objects.
 
 See [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616).
